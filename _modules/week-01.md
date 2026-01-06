@@ -4,8 +4,8 @@ title: Week 1
 
 Jan 6
 : **Lecture 1**{: .label .label-green } Course Overview
-  : [[PPTX]](assets/presentations/L01_Overview.pptx)
-  : [[PDF]](assets/presentations/L01_Overview.pdf)
+  : [[PPTX]](assets/presentations/MSANDE228_Introduction.pptx)
+  : [[PDF]](assets/presentations/MSANDE228_Introduction.pdf)
 : ***Reading Materials***
 - [Textbook](https://www.causalml-book.org)
 
