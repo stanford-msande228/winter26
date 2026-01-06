@@ -1,0 +1,38 @@
+---
+title: Basics of Causal Inference
+---
+
+Jan 6
+: **Lecture 1**{: .label .label-green } Course Overview
+  : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Introduction.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Introduction.pdf)
+: ***Reading Materials***
+- [Textbook](https://www.causalml-book.org)
+
+Jan 8
+: **Lecture 2**{: .label .label-green } Potential Outcomes & Causal Estimands
+: ***Reading Materials***
+- [Textbook: Sections 2.1](https://www.causalml-book.org)
+- [Hernan, Robins (2025). Causal Inference: What If, Chapter 1](https://miguelhernan.org/whatifbook)
+- Rubin (1974), Estimating causal effects of treatments in randomized and nonrandomized studies (classic)
+
+
+Jan 13
+: **Lecture 3**{: .label .label-green } Randomized Experiments: Identification & Inference
+: ***Reading Materials***
+- [Textbook: Chapter 2](https://www.causalml-book.org)
+- Lin (2013), Agnostic notes on regression adjustments to experimental data (optional)
+: ***Coding Materials***
+- [Pennsylvania Re-employment Bonus Experiment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-rct-penn-precision-adj.ipynb)
+- [Simulated precision via adjustment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-sim-precision-adj.ipynb)
+
+Jan 15
+: **Lecture 4**{: .label .label-green } Observational Studies: Conditional Ignorability I
+: ***Reading Materials***
+- [Textbook: Chapter 5](https://www.causalml-book.org)
+
+Jan 20
+: **Lecture 5**{: .label .label-green } Observational Studies: Conditional Ignorability II
+: ***Reading Materials***
+- [Textbook: Chapter 5](https://www.causalml-book.org)
+- Rosenbaum & Rubin (1983), The central role of the propensity score
