@@ -18,8 +18,6 @@ Feb 17
 
 Feb 19
 : **Lecture 14**{: .label .label-green } Instrumental Variables II: Debiased Machine Learning
-  : [[PPTX]](assets/presentations/L14_DML_IV_Proxies.pptx)
-  : [[PDF]](assets/presentations/L14_DML_IV_Proxies.pdf)
 : ***Reading Materials***
 - [Textbook: Chapters 12, 13](https://www.causalml-book.org)
 - Tchetgen Tchetgen et al., Proximal causal learning (optional, advanced)
