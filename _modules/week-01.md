@@ -3,11 +3,11 @@ title: Week 1
 ---
 
 Jan 6
-: **Lecture 1**{: .label .label-green } Course Overview: Thinking Like a Causal Data Scientist
+: **Lecture 1**{: .label .label-green } Course Overview
   : [[PPTX]](assets/presentations/L01_Overview.pptx)
   : [[PDF]](assets/presentations/L01_Overview.pdf)
 : ***Reading Materials***
-- [Textbook (course site)](https://www.causalml-book.org)
+- [Textbook](https://www.causalml-book.org)
 
 Jan 8
 : **Lecture 2**{: .label .label-green } Potential Outcomes & Causal Estimands
