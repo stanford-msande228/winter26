@@ -11,7 +11,7 @@ Feb 12
 
 
 Feb 17
-: **Lecture 13**{: .label .label-green } Instrumental Variables I:  Partially Linear IV models, Proxy Controls, LATE
+: **Lecture 13**{: .label .label-green } Instrumental Variables I:  Partially Linear IV models, LATE, Proxy Controls
 : ***Reading Materials***
 - [Textbook: Chapters 12, 13](https://www.causalml-book.org)
 - Imbens & Angrist (1994), Identification and estimation of LATE (classic)
