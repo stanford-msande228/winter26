@@ -44,7 +44,7 @@ The course will consist of lectures and homework assignments. Lectures will be h
 
 ### Course webpages
 
-* Textbook: [causalml-book](https://causalml-book.org)
+* Textbook: [causalml-book](http://causalml-book.org)
 * Full schedule and presentations: [schedule](https://stanford-msande228.github.io/winter26/calendar/)
 * Discussion and homework material: [Ed Discussion](https://edstem.org/us/courses/90735/discussion)
 * Submissions: [Gradescope](https://www.gradescope.com/courses/1209472)
@@ -125,7 +125,7 @@ Unfortunately, incidents of bias, discrimination, or intolerance do occur, wheth
 
 # Suggested textbooks
 
-The course textbook is [Applied Causal Inference Powered by ML and AI](https:/www.causalml-book.org). Course lecture notes will be posted online in the form of powerpoint presentations. Any feedback on slides and the course textbook will be greatly appreciated as we iterate over the material. These are the primary material for the course.  In addition, you may find it helpful to have the following textbooks on hand. I’m not requiring them, because they are available online, and we will not be linearly working our way through any of them. 
+The course textbook is [Applied Causal Inference Powered by ML and AI](http:/www.causalml-book.org). Course lecture notes will be posted online in the form of powerpoint presentations. Any feedback on slides and the course textbook will be greatly appreciated as we iterate over the material. These are the primary material for the course.  In addition, you may find it helpful to have the following textbooks on hand. I’m not requiring them, because they are available online, and we will not be linearly working our way through any of them. 
 
 * Hernan MA, Robins JM, [Causal Inference: What If](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2022/12/hernanrobins_WhatIf_20dec22.pdf)
 * Scott Cunningham, [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
