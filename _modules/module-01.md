@@ -4,8 +4,8 @@ title: Basics of Causal Inference
 
 Jan 6
 : **Lecture 1**{: .label .label-green } Course Overview
-  : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Introduction.pptx)
-  : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Introduction.pdf)
+  : [[PPTX]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Introduction.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Introduction.pdf)
 : ***Reading Materials***
 - [Textbook](https://www.causalml-book.org)
 
