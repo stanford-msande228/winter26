@@ -11,6 +11,7 @@ Jan 6
 
 Jan 8
 : **Lecture 2**{: .label .label-green } Potential Outcomes & Causal Estimands
+: [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture1.pdf)
 : ***Reading Materials***
 - [Textbook: Sections 2.1](http://www.causalml-book.org)
 - [Hernan, Robins (2025). Causal Inference: What If, Chapter 1](https://miguelhernan.org/whatifbook)
