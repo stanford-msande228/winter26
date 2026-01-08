@@ -2,11 +2,28 @@
 title: Causal Estimation with Machine Learning
 ---
 
-Jan 22
-: **Lecture 6**{: .label .label-green } Linear Regression for Causal Inference: FWL & Partialling Out
+Jan 20
+: **Lecture 6**{: .label .label-green } Linear Regression for Causal Inference I: Analyzing Experiments with Precision, FWL & Partialling Out
 : ***Reading Materials***
 - [Textbook: Chapter 1](http://www.causalml-book.org)
+- [Textbook: Chapter 2](http://www.causalml-book.org)
 - Angrist & Pischke, Mostly Harmless Econometrics (optional background)
+- Lin (2013), Agnostic notes on regression adjustments to experimental data (optional)
+: ***Coding Materials***
+- [Pennsylvania Re-employment Bonus Experiment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-rct-penn-precision-adj.ipynb)
+- [Simulated precision via adjustment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-sim-precision-adj.ipynb)
+
+
+Jan 22
+: **Lecture 6**{: .label .label-green } Linear Regression for Causal Inference II: Analyzing Experiments with Precision, FWL & Partialling Out
+: ***Reading Materials***
+- [Textbook: Chapter 1](http://www.causalml-book.org)
+- [Textbook: Chapter 2](http://www.causalml-book.org)
+- Angrist & Pischke, Mostly Harmless Econometrics (optional background)
+- Lin (2013), Agnostic notes on regression adjustments to experimental data (optional)
+: ***Coding Materials***
+- [Pennsylvania Re-employment Bonus Experiment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-rct-penn-precision-adj.ipynb)
+- [Simulated precision via adjustment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-sim-precision-adj.ipynb)
 
 
 Jan 27
