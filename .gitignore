@@ -12,3 +12,9 @@ vendor/
 /assets/code/hdmpy
 /assets/presentations/notes
 /assets/presentations/speaker_notes
+*.aux
+*.fls
+*.log
+*.fdb_latexmk
+*.out
+*.gz
