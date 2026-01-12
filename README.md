@@ -27,7 +27,7 @@ The course will cover fundamentals of modern applied causal inference. Basic pri
 |                    | Time                                 | Location       |
 |--------------------|--------------------------------------|----------------|
 | Vasilis Syrgkanis  | Tue 4.30pm-6pm, Fri 4.30pm-6pm       | Huang 252      |
-| Shiangyi Lin       | Mon 12.30pm-2pm, Thu 10.30am-12.00pm | Huang 203      |
+| Shiangyi Lin       | Mon 12.30pm-2pm, Thu 10.30am-12.00pm | Huang 203 (Mon), Huang 304 (Thu)      |
 | Jikai Jin          | Mon 9am-10.30am, Fri 9am-10.30am     | Huang 203      |
  
 
