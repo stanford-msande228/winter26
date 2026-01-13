@@ -23,6 +23,8 @@ Jan 8
 
 Jan 13
 : **Lecture 4**{: .label .label-green } Observational Studies: Conditional Ignorability I
+  : : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture2.pdf)
+Identification by Conditioning
 : ***Reading Materials***
 - [Textbook: Chapter 5](http://www.causalml-book.org)
 
