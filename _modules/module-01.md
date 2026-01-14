@@ -20,6 +20,8 @@ Jan 8
 : ***Coding Materials***
 - [NSW (Lalonde) Analysis Demo Code](https://colab.research.google.com/drive/1CpmSioAaqkNaIgQJVNWdzKH10DTZh_z8?usp=sharing)
 
+Jan 12
+: **Homework**{: .label .label-blue } HW1 Released
 
 Jan 13
 : **Lecture 4**{: .label .label-green } Observational Studies: Conditional Ignorability I
@@ -35,3 +37,5 @@ Jan 15
 - Rosenbaum & Rubin (1983), The central role of the propensity score
 
 
+Jan 19
+: **Homework**{: .label .label-red } HW1 Due
