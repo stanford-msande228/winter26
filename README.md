@@ -60,7 +60,11 @@ The course will consist of lectures and homework assignments. Lectures will be h
 
 There will be a total of around 7 problem sets. Problem sets must be submitted online through Gradescope [gradescope](https://www.gradescope.com/courses/1209472).  Problem set sheets will also be posted on Canvas.
 
-Depending on their length, the total number of points in each set might vary. Each part of each problem will have an assigned set of points. If your response is fully correct, then you will be receiving the points. If not you will not be receiving any points corresponding to that question.
+Depending on their length, the total number of points in each set might vary. Each part of each problem will be graded as follows:
+
+* If you attempt the problem and the answer is fully correct (with appropriate AI assistance and citation), you will receive full credit.
+* If you attempt the problem with substantial effort, you will receive half of the total points.
+* You will receive zero points otherwise.
 
 We encourage discussion of assignments with other classmates, but everybody must turn in their own written solutions in their own words. If you do a substantial subset of the work on your problem set with others, you must document on each assignment the other students that you worked with.  You may work in pairs on coding portions of the assignments, but again, please make sure to clarify in your submission who you collaborated with; if you turn in the same code as someone else, without noting the collaboration, it will be considered an Honor Code violation.  (See also the section on the Honor Code below.)
 
@@ -93,9 +97,10 @@ Your work on problem sets and the project is governed by the [Stanford Honor Cod
 
 ### Submitting on Gradescope 
 
-As noted above, problem sets and project submissions are submitted and graded through Gradescope. To ensure this process is smooth, there are a few things to keep in mind:
+As noted above, problem set submissions are submitted and graded through Gradescope. To ensure this process is smooth, there are a few things to keep in mind:
 * You are required to tag your answers correctly. The graders will ignore any part of your solution that is not tagged. Note that this means you also have to correctly tag your code.  Allow enough time prior to submission to ensure you are able to tag correctly.
 * In order to grade code you submitted, we need to be able to copy your code. Make sure this is possible (e.g., do not upload screenshot images of your code). We will deduct points if we cannot check your code.
+* When applicable, attach the full AI assistant interaction history as part of the appendix.
 * If you believe we have made a mistake grading your work, you should submit a regrade request through Gradescope. This sends your request directly to the grader on that particular question. You must submit your regrade request within 14 days of the grades of that particular problem set or project part being published.
 
 
