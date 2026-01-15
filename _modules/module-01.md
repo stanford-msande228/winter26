@@ -34,6 +34,8 @@ Jan 13
 
 Jan 15
 : **Lecture 5**{: .label .label-green } Observational Studies: Conditional Ignorability II
+  : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture3.pdf)
+: Identification by propensity weighting
 : ***Reading Materials***
 - [Textbook: Chapter 5](http://www.causalml-book.org)
 - Rosenbaum & Rubin (1983), The central role of the propensity score
