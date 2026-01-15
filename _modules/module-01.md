@@ -12,7 +12,7 @@ Jan 6
 Jan 8
 : **Lecture 2**{: .label .label-green } Potential Outcomes & Causal Estimands
   : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture1.pdf)
-  : [[Handout Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture1_student_notes.pdf)
+  : [[Handout]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture1_student_notes.pdf)
 : ***Reading Materials***
 - [Textbook: Sections 2.1](http://www.causalml-book.org)
 - [Hernan, Robins (2025). Causal Inference: What If, Chapter 1](https://miguelhernan.org/whatifbook)
@@ -26,7 +26,7 @@ Jan 12
 Jan 13
 : **Lecture 4**{: .label .label-green } Observational Studies: Conditional Ignorability I
   : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture2.pdf)
-  : [[Handout Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture2_student_notes.pdf)
+  : [[Handout]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture2_student_notes.pdf)
   : [[NotebookLM]](https://notebooklm.google.com/notebook/17ee5216-c3ca-44d5-8edf-ac6bba2475a8?authuser=1)
 : Identification by Conditioning
 : ***Reading Materials***
