@@ -41,5 +41,5 @@ Jan 15
 - Rosenbaum & Rubin (1983), The central role of the propensity score
 
 
-Jan 19
+Jan 20
 : **Homework**{: .label .label-red } HW1 Due
