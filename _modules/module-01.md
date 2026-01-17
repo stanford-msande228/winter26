@@ -36,6 +36,7 @@ Jan 15
 : **Lecture 5**{: .label .label-green } Observational Studies: Conditional Ignorability II
   : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture3.pdf)
   : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture3_student_notes.pdf)
+  : [[NotebookLM]](https://notebooklm.google.com/notebook/0b6bcffb-74ea-474f-b204-b434d63cb00f?authuser=1)
 : Identification by propensity weighting
 : ***Reading Materials***
 - [Textbook: Chapter 5](http://www.causalml-book.org)
