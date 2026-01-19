@@ -4,19 +4,20 @@ title: Causal Estimation with Machine Learning
 
 Jan 20
 : **Lecture 8**{: .label .label-green } Flexible Causal Estimation with Machine Learning: Debiased Machine Learning I
-: Confidence intervals and asymptotic normality, Solving Prediction Problems with 
-ML, Why naive ML is problematic for confidence intervals of causal quantities.
+: Confidence intervals and asymptotic normality, Why naive ML is problematic for confidence intervals of causal quantities, The doubly robust estimator, cross-fitting, semi-cross-fitting.
 : ***Reading Materials***
-- [Textbook: Chapters 8 and 9](http://www.causalml-book.org)
+- [Textbook: Chapter 9](http://www.causalml-book.org)
+- Chernozhukov et al. (2018), Double/debiased machine learning for treatment and structural parameters (optional)
+- Bang & Robins (2005), Doubly robust estimation in missing data and causal inference (optional)
 
 
 Jan 22
 : **Lecture 8**{: .label .label-green } Flexible Causal Estimation with Machine Learning: Debiased Machine Learning II
-: The doubly robust estimator, cross-fitting, semi-cross-fitting
+: Solving Prediction Problems with 
+ML 
 : ***Reading Materials***
-- [Textbook: Chapters 8 and 9](http://www.causalml-book.org)
-- Chernozhukov et al. (2018), Double/debiased machine learning for treatment and structural parameters (optional)
-- Bang & Robins (2005), Doubly robust estimation in missing data and causal inference (optional)
+- [Textbook: Chapters 1, 3, 8](http://www.causalml-book.org)
+
 
 Jan 27
 : **Lecture 6**{: .label .label-green } Linear Regression for Causal Inference
