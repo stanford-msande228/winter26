@@ -9,7 +9,7 @@ Mar 3
 - Callaway & Sant’Anna (2021) or Sun & Abraham (2021) (optional modern DiD)
 
 Mar 3
-: **Homework**{: .label .label-blue } HW8 Released, Tuesday (DiD + Dynamic Effects)
+: **Homework**{: .label .label-blue } HW8 Released, Tuesday (DiD + Dynamic Effects + Surrogates)
 
 
 Mar 5
@@ -27,11 +27,6 @@ Mar 10
 - [Estimating the Long-Term Effects of Novel Treatments (optional)](https://arxiv.org/abs/2103.08390)
 
 
-Mar 11
-: **Homework**{: .label .label-red } HW8 Due, Wednesday
-
-Mar 11
-: **Homework**{: .label .label-blue } HW9 Released (Surrogates)
 
 Mar 12
 : **Lecture 20**{: .label .label-green } Regression Discontinuity Designs (RDD) with ML
@@ -41,5 +36,5 @@ Mar 12
 - Calonico, Cattaneo & Titiunik (2014), Robust bias-corrected RDD inference (optional)
 
 
-Mar 19
-: **Homework**{: .label .label-red } HW9 Due, Thursday of exam week
+Mar 16
+: **Homework**{: .label .label-red } HW8 Due, Wednesday
