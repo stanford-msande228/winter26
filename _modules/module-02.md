@@ -12,7 +12,7 @@ Jan 20
 - Bang & Robins (2005), Doubly robust estimation in missing data and causal inference (optional)
 
 Jan 21
-: **Homework**{: .label .label-blue } HW2 Released (Doubly Robust Estimation)
+: **Homework**{: .label .label-blue } HW2 Released, Wednesday (Doubly Robust Estimation)
 
 
 Jan 22
@@ -36,10 +36,10 @@ Jan 27
 - [Simulated precision via adjustment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-sim-precision-adj.ipynb)
 
 Jan 28
-: **Homework**{: .label .label-red } HW2 Due
+: **Homework**{: .label .label-red } HW2 Due, Wednesday
 
 Jan 28
-: **Homework**{: .label .label-blue } HW3 Released (Analyzing Experiments with Precision)
+: **Homework**{: .label .label-blue } HW3 Released, Wednesday (Analyzing Experiments with Precision)
 
 Jan 29
 : **Lecture 7**{: .label .label-green } Inference with High-Dimensional Linear Models
@@ -50,7 +50,7 @@ Jan 29
 
 
 Feb 3
-: **Homework**{: .label .label-red } HW3 Due
+: **Homework**{: .label .label-red } HW3 Due, Tuesday
 
 Feb 3
 : **Lecture 9**{: .label .label-green } General Debiased Machine Learning Framework
@@ -61,4 +61,4 @@ Feb 3
 
 
 Feb 3
-: **Homework**{: .label .label-blue } HW4 Released (Partially Linear Models)
+: **Homework**{: .label .label-blue } HW4 Released, Tuesday (Partially Linear Models)

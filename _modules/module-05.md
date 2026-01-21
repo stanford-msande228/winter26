@@ -10,7 +10,7 @@ Feb 24
 
 
 Feb 24
-: **Homework**{: .label .label-blue } HW7 Released (Heterogeneous Effects)
+: **Homework**{: .label .label-blue } HW7 Released, Tuesday (Heterogeneous Effects)
 
 
 Feb 26
@@ -21,4 +21,4 @@ Feb 26
 
 
 Mar 3
-: **Homework**{: .label .label-red } HW7 Due
+: **Homework**{: .label .label-red } HW7 Due, Tuesday

@@ -9,7 +9,7 @@ Mar 3
 - Callaway & Sant’Anna (2021) or Sun & Abraham (2021) (optional modern DiD)
 
 Mar 3
-: **Homework**{: .label .label-blue } HW8 Released (DiD + Dynamic Effects)
+: **Homework**{: .label .label-blue } HW8 Released, Tuesday (DiD + Dynamic Effects)
 
 
 Mar 5
@@ -28,7 +28,7 @@ Mar 10
 
 
 Mar 11
-: **Homework**{: .label .label-red } HW8 Due
+: **Homework**{: .label .label-red } HW8 Due, Wednesday
 
 Mar 11
 : **Homework**{: .label .label-blue } HW9 Released (Surrogates)
@@ -42,4 +42,4 @@ Mar 12
 
 
 Mar 19
-: **Homework**{: .label .label-red } HW9 Released
+: **Homework**{: .label .label-red } HW9 Due, Thursday of exam week

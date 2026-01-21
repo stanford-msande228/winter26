@@ -10,7 +10,7 @@ Feb 5
 
 
 Feb 10
-: **Homework**{: .label .label-red } HW4 Due
+: **Homework**{: .label .label-red } HW4 Due, Tuesday
 
 Feb 10
 : **Lecture 11**{: .label .label-green } Structural Causal Models & DAGs II
@@ -19,4 +19,4 @@ Feb 10
 - Richardson & Robins (2013), Single World Intervention Graphs (optional)
 
 Feb 10
-: **Homework**{: .label .label-red } HW5 Released (DAGs and Unobserved Confounding)
+: **Homework**{: .label .label-red } HW5 Released, Tuesday (DAGs and Unobserved Confounding)
