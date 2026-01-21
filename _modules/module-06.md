@@ -36,5 +36,5 @@ Mar 12
 - Calonico, Cattaneo & Titiunik (2014), Robust bias-corrected RDD inference (optional)
 
 
-Mar 16
-: **Homework**{: .label .label-red } HW8 Due, Friday
+Mar 18
+: **Homework**{: .label .label-red } HW8 Due, Wednesday of exam week 
