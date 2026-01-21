@@ -11,6 +11,9 @@ Jan 20
 - Chernozhukov et al. (2018), Double/debiased machine learning for treatment and structural parameters (optional)
 - Bang & Robins (2005), Doubly robust estimation in missing data and causal inference (optional)
 
+Jan 21
+: **Homework**{: .label .label-blue } HW2 Released (Doubly Robust Estimation)
+
 
 Jan 22
 : **Lecture 8**{: .label .label-green } Flexible Causal Estimation with Machine Learning: Debiased Machine Learning II
@@ -32,6 +35,11 @@ Jan 27
 - [Pennsylvania Re-employment Bonus Experiment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-rct-penn-precision-adj.ipynb)
 - [Simulated precision via adjustment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-sim-precision-adj.ipynb)
 
+Jan 28
+: **Homework**{: .label .label-red } HW2 Due
+
+Jan 28
+: **Homework**{: .label .label-blue } HW3 Released (Analyzing Experiments with Precision)
 
 Jan 29
 : **Lecture 7**{: .label .label-green } Inference with High-Dimensional Linear Models
@@ -42,7 +50,15 @@ Jan 29
 
 
 Feb 3
+: **Homework**{: .label .label-red } HW3 Due
+
+Feb 3
 : **Lecture 9**{: .label .label-green } General Debiased Machine Learning Framework
 : Partially Linear Models, Continuous Treatments, Generalized FWL theorem, Parameters defined via moment restrictions and the general principle of Neyman orthogonality
 : ***Reading Materials***
 - [Textbook: Section 9.4](http://www.causalml-book.org)
+
+
+
+Feb 3
+: **Homework**{: .label .label-blue } HW4 Released (Partially Linear Models)
