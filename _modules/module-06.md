@@ -37,4 +37,4 @@ Mar 12
 
 
 Mar 16
-: **Homework**{: .label .label-red } HW8 Due, Wednesday
+: **Homework**{: .label .label-red } HW8 Due, Friday
