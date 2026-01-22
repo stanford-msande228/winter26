@@ -5,6 +5,7 @@ title: Causal Estimation with Machine Learning
 Jan 20
 : **Lecture 8**{: .label .label-green } Flexible Causal Estimation with Machine Learning: Debiased Machine Learning I
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture4.pdf)
+    : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture4_student_notes.pdf)
 : Confidence intervals and asymptotic normality, Why naive ML is problematic for confidence intervals of causal quantities, The doubly robust estimator, cross-fitting, semi-cross-fitting.
 : ***Reading Materials***
 - [Textbook: Chapter 9](http://www.causalml-book.org)
