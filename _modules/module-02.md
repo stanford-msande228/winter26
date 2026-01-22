@@ -19,8 +19,9 @@ Jan 21
 
 Jan 22
 : **Lecture 8**{: .label .label-green } Flexible Causal Estimation with Machine Learning: Debiased Machine Learning II
+    : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture5.pdf)
 : Solving Prediction Problems with 
-ML 
+ML, Cross-Validation, AutoML, Semi-Cross-Fitting, Stacking.
 : ***Reading Materials***
 - [Textbook: Chapters 1, 3, 8](http://www.causalml-book.org)
 
