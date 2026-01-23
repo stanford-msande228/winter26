@@ -27,8 +27,8 @@ ML, Cross-Validation, AutoML, Semi-Cross-Fitting, Stacking.
 
 
 Jan 27
-: **Lecture 6**{: .label .label-green } Linear Regression for Causal Inference
-: Analyzing Experiments with Precision, FWL & Partialling Out
+: **Lecture 6**{: .label .label-green } Analyzing Experiments with Precision I
+: Linear Regression under mis-specification, Linear Regression for RCTs, FWL & Partialling Out
 : ***Reading Materials***
 - [Textbook: Chapter 1](http://www.causalml-book.org)
 - [Textbook: Chapter 2](http://www.causalml-book.org)
@@ -45,8 +45,8 @@ Jan 28
 : **Homework**{: .label .label-blue } HW3 Released, Wednesday (Analyzing Experiments with Precision)
 
 Jan 29
-: **Lecture 7**{: .label .label-green } Inference with High-Dimensional Linear Models
-: Analyzing Experiments with Precision in High-Dimensions, FWL & Partialling Out for High-Dimensional Linear Models, Double Lasso
+: **Lecture 7**{: .label .label-green } Analyzing Experiments with Precision II
+: Inference with High-Dimensional Linear Models, Analyzing Experiments with Precision in High-Dimensions, FWL & Partialling Out for High-Dimensional Linear Models, Double Lasso
 : ***Reading Materials***
 - [Textbook: Chapters 3 and 4](http://www.causalml-book.org)
 - Belloni, Chernozhukov & Hansen (2014), Inference on treatment effects after selection amongst high-dimensional controls (optional)
