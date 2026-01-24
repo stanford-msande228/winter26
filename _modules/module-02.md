@@ -24,6 +24,8 @@ Jan 22
 ML, cross-validation, AutoML, semi-cross-fitting, stacking.
 : ***Reading Materials***
 - [Textbook: Chapters 1, 3, 8](http://www.causalml-book.org)
+: ***Coding Materials***
+- [Overview of ML Methods + AutoML + Stacking](https://colab.research.google.com/drive/14i4_72k3VmjZbHhamW6qGH_uG3sbZo3O?usp=sharing)
 
 
 Jan 27
