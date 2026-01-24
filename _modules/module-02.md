@@ -20,6 +20,7 @@ Jan 21
 Jan 22
 : **Lecture 8**{: .label .label-green } Flexible Causal Estimation with Machine Learning II: ML Predictive Modeling
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture5.pdf)
+    : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture5_student_notes.pdf)
 : Solving prediction problems with 
 ML, cross-validation, AutoML, semi-cross-fitting, stacking.
 : ***Reading Materials***
