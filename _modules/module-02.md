@@ -3,11 +3,11 @@ title: Causal Estimation with Machine Learning
 ---
 
 Jan 20
-: **Lecture 8**{: .label .label-green } Flexible Causal Estimation with Machine Learning: Debiased Machine Learning I
+: **Lecture 8**{: .label .label-green } Flexible Causal Estimation with Machine Learning I: Doubly Robust Learning and Debiasing
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture4.pdf)
     : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture4_student_notes.pdf)
     : [[NotebookLM]](https://notebooklm.google.com/notebook/b72fc5a1-42cb-4a9c-a66e-f5aeeed72f6e?authuser=1)
-: Confidence intervals and asymptotic normality, Why naive ML is problematic for confidence intervals of causal quantities, The doubly robust estimator, cross-fitting, semi-cross-fitting.
+: Confidence intervals and asymptotic normality, why naive ML is problematic for confidence intervals of causal quantities, cross-fitting, debiasing, the doubly robust estimator.
 : ***Reading Materials***
 - [Textbook: Chapter 9](http://www.causalml-book.org)
 - Chernozhukov et al. (2018), Double/debiased machine learning for treatment and structural parameters (optional)
@@ -18,10 +18,10 @@ Jan 21
 
 
 Jan 22
-: **Lecture 8**{: .label .label-green } Flexible Causal Estimation with Machine Learning: Debiased Machine Learning II
+: **Lecture 8**{: .label .label-green } Flexible Causal Estimation with Machine Learning II: ML Predictive Modeling
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture5.pdf)
-: Solving Prediction Problems with 
-ML, Cross-Validation, AutoML, Semi-Cross-Fitting, Stacking.
+: Solving prediction problems with 
+ML, cross-validation, AutoML, semi-cross-fitting, stacking.
 : ***Reading Materials***
 - [Textbook: Chapters 1, 3, 8](http://www.causalml-book.org)
 
