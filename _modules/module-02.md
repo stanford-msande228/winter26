@@ -12,6 +12,8 @@ Jan 20
 - [Textbook: Chapter 9](http://www.causalml-book.org)
 - Chernozhukov et al. (2018), Double/debiased machine learning for treatment and structural parameters (optional)
 - Bang & Robins (2005), Doubly robust estimation in missing data and causal inference (optional)
+: ***Coding Materials***
+- [g-estimator, g-estimator with crossfitting, DR estimator with crossfitting on Synthetic Example](https://colab.research.google.com/drive/1eTzl2Uiy-ik7hbWnflsNy8hNkK1NdE4M?usp=sharing)
 
 Jan 21
 : **Homework**{: .label .label-blue } HW2 Released, Wednesday (Doubly Robust Estimation)
