@@ -32,6 +32,8 @@ Jan 13
 : Identification by Conditioning
 : ***Reading Materials***
 - [Textbook: Chapter 5](http://www.causalml-book.org)
+: ***Coding Materials***
+- [NSW (Lalonde) Analysis: Identification by Conditioning](https://colab.research.google.com/drive/1tky6wng5G4aJ0Y_nd9-bVn7pUlbmJ5TI?usp=sharing)
 
 Jan 15
 : **Lecture 5**{: .label .label-green } Observational Studies: Conditional Ignorability II
@@ -42,7 +44,8 @@ Jan 15
 : ***Reading Materials***
 - [Textbook: Chapter 5](http://www.causalml-book.org)
 - Rosenbaum & Rubin (1983), The central role of the propensity score
-
+: ***Coding Materials***
+- [NSW (Lalonde) Analysis: Identification by Propensity](https://colab.research.google.com/drive/1j7mVR3ACgwv_KuObqqytGtZwKJWr8VKK?usp=sharing)
 
 Jan 20
 : **Homework**{: .label .label-red } HW1 Due
