@@ -33,8 +33,9 @@ ML, cross-validation, AutoML, semi-cross-fitting, stacking.
 
 
 Jan 27
-: **Lecture 6**{: .label .label-green } Analyzing Experiments with Precision I
-: Linear Regression under mis-specification, Linear Regression for RCTs, FWL & Partialling Out
+: **Lecture 6**{: .label .label-green } Analyzing Experiments with Precision 
+    : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture6.pdf)
+: Variance of Doubly Robust Estimator, Linear Regression under mis-specification, Linear Regression for RCTs, Precision Improvement
 : ***Reading Materials***
 - [Textbook: Chapter 1](http://www.causalml-book.org)
 - [Textbook: Chapter 2](http://www.causalml-book.org)
