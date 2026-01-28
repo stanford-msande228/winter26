@@ -44,6 +44,8 @@ Jan 27
 : ***Coding Materials***
 - [Pennsylvania Re-employment Bonus Experiment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-rct-penn-precision-adj.ipynb)
 - [Simulated precision via adjustment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-sim-precision-adj.ipynb)
+: ***In Class Activity Results***
+- [Table of Pros and Cons of each ATE Estimator](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture6_activity_notes.pdf)
 
 Jan 28
 : **Homework**{: .label .label-red } HW2 Due, Wednesday
