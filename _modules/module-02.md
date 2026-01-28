@@ -36,16 +36,13 @@ Jan 27
 : **Lecture 6**{: .label .label-green } Analyzing Experiments with Precision 
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture6.pdf)
 : Variance of Doubly Robust Estimator, Linear Regression under mis-specification, Linear Regression for RCTs, Precision Improvement
-: ***Reading Materials***
-- [Textbook: Chapter 1](http://www.causalml-book.org)
-- [Textbook: Chapter 2](http://www.causalml-book.org)
-- Angrist & Pischke, Mostly Harmless Econometrics (optional background)
-- Lin (2013), Agnostic notes on regression adjustments to experimental data (optional)
-: ***Coding Materials***
-- [Pennsylvania Re-employment Bonus Experiment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-rct-penn-precision-adj.ipynb)
-- [Simulated precision via adjustment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-sim-precision-adj.ipynb)
 : ***In Class Activity Results***
 - [Table of Pros and Cons of each ATE Estimator](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture6_activity_notes.pdf)
+: ***Reading Materials***
+- [Use of Machine Learning to Estimate the Per-Protocol Effect of Low-Dose Aspirin on Pregnancy Outcomes](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789846)
+- [EconML LinearDRLearner](https://www.pywhy.org/EconML/_autosummary/econml.dr.LinearDRLearner.html)
+- [DoubleML DR Learner](https://docs.doubleml.org/stable/api/generated/doubleml.irm.DoubleMLIRM.html)
+- [Using Causal Inference to Improve the Uber User Experience](https://www.uber.com/blog/causal-inference-at-uber/)
 
 Jan 28
 : **Homework**{: .label .label-red } HW2 Due, Wednesday
@@ -55,10 +52,16 @@ Jan 28
 
 Jan 29
 : **Lecture 7**{: .label .label-green } Analyzing Experiments with Precision II
-: Inference with High-Dimensional Linear Models, Analyzing Experiments with Precision in High-Dimensions, FWL & Partialling Out for High-Dimensional Linear Models, Double Lasso
+: Inference with High-Dimensional Linear Models, Analyzing Experiments with Precision, FWL & Partialling Out for Low and High-Dimensional Linear Models, Continuous Treatments and Partial Linearity
 : ***Reading Materials***
-- [Textbook: Chapters 3 and 4](http://www.causalml-book.org)
-- Belloni, Chernozhukov & Hansen (2014), Inference on treatment effects after selection amongst high-dimensional controls (optional)
+- [Textbook: Chapter 1](http://www.causalml-book.org)
+- [Textbook: Chapter 2](http://www.causalml-book.org)
+- Angrist & Pischke, Mostly Harmless Econometrics (optional background)
+- Lin (2013), Agnostic notes on regression adjustments to experimental data (optional)
+: ***Coding Materials***
+- [Pennsylvania Re-employment Bonus Experiment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-rct-penn-precision-adj.ipynb)
+- [Simulated precision via adjustment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-sim-precision-adj.ipynb)
+
 
 
 Feb 3
