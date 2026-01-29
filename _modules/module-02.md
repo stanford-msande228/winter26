@@ -52,6 +52,7 @@ Jan 28
 
 Jan 29
 : **Lecture 7**{: .label .label-green } Analyzing Experiments with Precision II
+    : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture7.pdf)
 : Inference with High-Dimensional Linear Models, Analyzing Experiments with Precision, FWL & Partialling Out for Low and High-Dimensional Linear Models, Continuous Treatments and Partial Linearity
 : ***Reading Materials***
 - [Textbook: Chapter 1](http://www.causalml-book.org)
