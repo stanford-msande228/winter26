@@ -19,4 +19,4 @@ Feb 10
 - Richardson & Robins (2013), Single World Intervention Graphs (optional)
 
 Feb 10
-: **Homework**{: .label .label-red } HW5 Released, Tuesday (DAGs and Unobserved Confounding)
+: **Homework**{: .label .label-blue } HW5 Released, Tuesday (DAGs and Unobserved Confounding)
