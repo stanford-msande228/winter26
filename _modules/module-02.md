@@ -35,6 +35,8 @@ ML, cross-validation, AutoML, semi-cross-fitting, stacking.
 Jan 27
 : **Lecture 6**{: .label .label-green } Analyzing Experiments with Precision 
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture6.pdf)
+    : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture6_student_notes.pdf)
+    : [[NotebookLM]](https://notebooklm.google.com/notebook/3a00646f-3da7-44d0-ace8-bc3821a0c81c?authuser=1)
 : Variance of Doubly Robust Estimator, Linear Regression under mis-specification, Linear Regression for RCTs, Precision Improvement
 : ***In Class Activity Results***
 - [Table of Pros and Cons of each ATE Estimator](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture6_activity_notes.pdf)
@@ -43,6 +45,8 @@ Jan 27
 - [EconML LinearDRLearner](https://www.pywhy.org/EconML/_autosummary/econml.dr.LinearDRLearner.html)
 - [DoubleML DR Learner](https://docs.doubleml.org/stable/api/generated/doubleml.irm.DoubleMLIRM.html)
 - [Using Causal Inference to Improve the Uber User Experience](https://www.uber.com/blog/causal-inference-at-uber/)
+: ***Coding Materials***
+- [Variance of DR Estimator](https://colab.research.google.com/drive/1KPq5puutf4RtEnMVhrFMYJDc5FM5Howh?usp=sharing)
 
 Jan 28
 : **Homework**{: .label .label-red } HW2 Due, Wednesday
