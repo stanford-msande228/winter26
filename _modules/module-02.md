@@ -57,6 +57,8 @@ Jan 28
 Jan 29
 : **Lecture 7**{: .label .label-green } Analyzing Experiments with Precision II
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture7.pdf)
+    : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture7_student_notes.pdf)
+    : [[NotebookLM]](https://notebooklm.google.com/notebook/87b68c69-2588-426b-bf33-3187c7ed6cec?authuser=1)
 : Inference with High-Dimensional Linear Models, Analyzing Experiments with Precision, FWL & Partialling Out for Low and High-Dimensional Linear Models, Continuous Treatments and Partial Linearity
 : ***Reading Materials***
 - [Textbook: Chapter 1](http://www.causalml-book.org)
@@ -66,6 +68,7 @@ Jan 29
 : ***Coding Materials***
 - [Pennsylvania Re-employment Bonus Experiment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-rct-penn-precision-adj.ipynb)
 - [Simulated precision via adjustment (notebook)](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-sim-precision-adj.ipynb)
+- [Synthetic Experiments for Variance Reduction and for Continuous Treatments](https://colab.research.google.com/drive/11Q2WdQiWVxHYteb8Pwqbw0D5l3IKOJtc?usp=sharing)
 
 
 
