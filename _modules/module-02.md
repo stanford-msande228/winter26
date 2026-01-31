@@ -59,7 +59,7 @@ Jan 29
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture7.pdf)
     : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture7_student_notes.pdf)
     : [[NotebookLM]](https://notebooklm.google.com/notebook/87b68c69-2588-426b-bf33-3187c7ed6cec?authuser=1)
-: Inference with High-Dimensional Linear Models, Analyzing Experiments with Precision, FWL & Partialling Out for Low and High-Dimensional Linear Models, Continuous Treatments and Partial Linearity
+: Linear Regression under mis-specification, Linear Regression for RCTs, Precision Improvement, Continuous Treatments and Partial Linearity
 : ***Reading Materials***
 - [Textbook: Chapter 1](http://www.causalml-book.org)
 - [Textbook: Chapter 2](http://www.causalml-book.org)
