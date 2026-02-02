@@ -8,8 +8,11 @@ Mar 3
 - [Textbook: Chapter 16](http://www.causalml-book.org)
 - Callaway & Sant’Anna (2021) or Sun & Abraham (2021) (optional modern DiD)
 
-Mar 3
-: **Homework**{: .label .label-blue } HW8 Released, Tuesday (DiD + Dynamic Effects + Surrogates)
+Mar 4
+: **Homework**{: .label .label-red } HW7 Due, Wednesday
+
+Mar 4
+: **Homework**{: .label .label-blue } HW8 Released, Wednesday (DiD + Dynamic Effects + Surrogates)
 
 
 Mar 5

@@ -72,8 +72,6 @@ Jan 29
 
 
 
-Feb 3
-: **Homework**{: .label .label-red } HW3 Due, Tuesday
 
 Feb 3
 : **Lecture 9**{: .label .label-green } General Debiased Machine Learning Framework
@@ -83,5 +81,8 @@ Feb 3
 
 
 
-Feb 3
-: **Homework**{: .label .label-blue } HW4 Released, Tuesday (Partially Linear Models)
+Feb 4
+: **Homework**{: .label .label-red } HW3 Due, Wednesday
+
+Feb 4
+: **Homework**{: .label .label-blue } HW4 Released, Wednesday (Partially Linear Models)

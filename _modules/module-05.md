@@ -9,8 +9,12 @@ Feb 24
 - Athey, Tibshirani, Wager (2019), Generalized random forests (optional)
 
 
-Feb 24
-: **Homework**{: .label .label-blue } HW7 Released, Tuesday (Heterogeneous Effects)
+
+Feb 25
+: **Homework**{: .label .label-red } HW6 Due, Wednesday
+
+Feb 25
+: **Homework**{: .label .label-blue } HW7 Released, Wednesday(Heterogeneous Effects)
 
 
 Feb 26
@@ -20,5 +24,3 @@ Feb 26
 
 
 
-Mar 3
-: **Homework**{: .label .label-red } HW7 Due, Tuesday
