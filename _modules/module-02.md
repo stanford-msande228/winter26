@@ -74,8 +74,9 @@ Jan 29
 
 
 Feb 3
-: **Lecture 9**{: .label .label-green } General Debiased Machine Learning Framework
-: Partially Linear Models, Continuous Treatments, Generalized FWL theorem, Parameters defined via moment restrictions and the general principle of Neyman orthogonality
+: **Lecture 9**{: .label .label-green } Continuous Treatments and the Double Machine Learning Estimator
+    : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture8.pdf)
+: FWL Theorem, Partially Linear Models, Continuous Treatments, Generalized FWL theorem
 : ***Reading Materials***
 - [Textbook: Section 9.4](http://www.causalml-book.org)
 
