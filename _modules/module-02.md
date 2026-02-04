@@ -76,9 +76,11 @@ Jan 29
 Feb 3
 : **Lecture 9**{: .label .label-green } Continuous Treatments and the Double Machine Learning Estimator
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture8.pdf)
+    : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture8_student_notes.pdf)
+    : [[NotebookLM]](https://notebooklm.google.com/notebook/d79ac27e-7ace-4a39-99c6-9ac0f90c4afb?authuser=1)
 : FWL Theorem, Partially Linear Models, Continuous Treatments, Generalized FWL theorem
 : ***Reading Materials***
-- [Textbook: Section 9.4](http://www.causalml-book.org)
+- [Textbook: Sections 1, 4, 9](http://www.causalml-book.org)
 
 
 
