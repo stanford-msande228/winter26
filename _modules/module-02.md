@@ -81,7 +81,8 @@ Feb 3
 : FWL Theorem, Partially Linear Models, Continuous Treatments, Generalized FWL theorem
 : ***Reading Materials***
 - [Textbook: Sections 1, 4, 9](http://www.causalml-book.org)
-
+: ***Coding Materials***
+- [DML for Price Elasticity: Synthetic and Real Data](https://colab.research.google.com/drive/10Bi3qo_XgmNo5mFKjBt83PnY7zIz0bur?usp=sharing)
 
 
 Feb 4
