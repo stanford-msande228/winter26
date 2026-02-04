@@ -3,7 +3,7 @@ title: Causal Estimation with Machine Learning
 ---
 
 Jan 20
-: **Lecture 8**{: .label .label-green } Flexible Causal Estimation with Machine Learning I: Doubly Robust Learning and Debiasing
+: **Lecture 4**{: .label .label-green } Flexible Causal Estimation with Machine Learning I: Doubly Robust Learning and Debiasing
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture4.pdf)
     : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture4_student_notes.pdf)
     : [[NotebookLM]](https://notebooklm.google.com/notebook/b72fc5a1-42cb-4a9c-a66e-f5aeeed72f6e?authuser=1)
@@ -20,7 +20,7 @@ Jan 21
 
 
 Jan 22
-: **Lecture 8**{: .label .label-green } Flexible Causal Estimation with Machine Learning II: ML Predictive Modeling
+: **Lecture 5**{: .label .label-green } Flexible Causal Estimation with Machine Learning II: ML Predictive Modeling
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture5.pdf)
     : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture5_student_notes.pdf)
     : [[NotebookLM]](https://notebooklm.google.com/notebook/424a61e6-5b58-487b-bb8f-4880f34ee94b?authuser=1)
@@ -74,7 +74,7 @@ Jan 29
 
 
 Feb 3
-: **Lecture 9**{: .label .label-green } Continuous Treatments and the Double Machine Learning Estimator
+: **Lecture 8**{: .label .label-green } Continuous Treatments and the Double Machine Learning Estimator
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture8.pdf)
     : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture8_student_notes.pdf)
     : [[NotebookLM]](https://notebooklm.google.com/notebook/d79ac27e-7ace-4a39-99c6-9ac0f90c4afb?authuser=1)
@@ -90,3 +90,10 @@ Feb 4
 
 Feb 4
 : **Homework**{: .label .label-blue } HW4 Released, Wednesday (Partially Linear Models)
+
+Feb 5
+: **Lecture 9**{: .label .label-green } Double Machine Learning, Neyman Orthogonality and Examples
+: ***Reading Materials***
+- [Textbook: Sections 1, 4, 9](http://www.causalml-book.org)
+: ***Coding Materials***
+- [DML for Price Elasticity: Synthetic and Real Data](https://colab.research.google.com/drive/10Bi3qo_XgmNo5mFKjBt83PnY7zIz0bur?usp=sharing)

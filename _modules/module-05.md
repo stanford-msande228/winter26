@@ -3,7 +3,7 @@ title: Heterogeneous Treatment Effects
 ---
 
 Feb 24
-: **Lecture 15**{: .label .label-green } Heterogeneous Treatment Effects I
+: **Lecture 14**{: .label .label-green } Heterogeneous Treatment Effects I
 : ***Reading Materials***
 - [Textbook: Chapter 14](http://www.causalml-book.org)
 - Athey, Tibshirani, Wager (2019), Generalized random forests (optional)
@@ -18,7 +18,7 @@ Feb 25
 
 
 Feb 26
-: **Lecture 16**{: .label .label-green } Heterogeneous Treatment Effects II
+: **Lecture 15**{: .label .label-green } Heterogeneous Treatment Effects II
 : ***Reading Materials***
 - [Textbook: Chapter 15](http://www.causalml-book.org)
 
