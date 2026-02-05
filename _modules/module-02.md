@@ -93,8 +93,10 @@ Feb 4
 
 Feb 5
 : **Lecture 9**{: .label .label-green } Double Machine Learning in Practice
+    : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture8.pdf)
 : ***Reading Materials***
 - [Textbook: Sections 1, 4, 9](http://www.causalml-book.org)
+- [Adventures in Demand Analysis Using AI](https://arxiv.org/abs/2501.00382)
 : ***Coding Materials***
 - [DML for Price Elasticity: Synthetic and Real Data](https://colab.research.google.com/drive/1kTuutImcbgVuV7VmR78lyZE7sqjqqaqT?usp=sharing)
 - [DML for Price Elasticity in Real Panel Data](https://colab.research.google.com/drive/1UKMXEPOEaikZHLgbep8INHkkJmvr7hZ6?usp=sharing)
