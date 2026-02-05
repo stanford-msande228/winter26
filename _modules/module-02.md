@@ -92,8 +92,9 @@ Feb 4
 : **Homework**{: .label .label-blue } HW4 Released, Wednesday (Partially Linear Models)
 
 Feb 5
-: **Lecture 9**{: .label .label-green } Double Machine Learning, Neyman Orthogonality and Examples
+: **Lecture 9**{: .label .label-green } Double Machine Learning in Practice
 : ***Reading Materials***
 - [Textbook: Sections 1, 4, 9](http://www.causalml-book.org)
 : ***Coding Materials***
-- [DML for Price Elasticity: Synthetic and Real Data](https://colab.research.google.com/drive/10Bi3qo_XgmNo5mFKjBt83PnY7zIz0bur?usp=sharing)
+- [DML for Price Elasticity: Synthetic and Real Data](https://colab.research.google.com/drive/1kTuutImcbgVuV7VmR78lyZE7sqjqqaqT?usp=sharing)
+- [DML for Price Elasticity in Real Panel Data](https://colab.research.google.com/drive/1UKMXEPOEaikZHLgbep8INHkkJmvr7hZ6?usp=sharing)
