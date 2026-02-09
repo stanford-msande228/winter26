@@ -1,15 +1,26 @@
 ---
-title: Causal Identification with DAGs
+title: Heterogeneous Treatment Effects
 ---
 
 Feb 10
-: **Lecture 10**{: .label .label-green } Structural Causal Models & DAGs
+: **Lecture 14**{: .label .label-green } Heterogeneous Treatment Effects I
 : ***Reading Materials***
-- [Textbook: Chapters 7, 11](http://www.causalml-book.org)
-- Richardson & Robins (2013), Single World Intervention Graphs (optional)
+- [Textbook: Chapter 14](http://www.causalml-book.org)
+- Athey, Tibshirani, Wager (2019), Generalized random forests (optional)
+
+
 
 Feb 11
 : **Homework**{: .label .label-red } HW4 Due, Wednesday
 
 Feb 11
-: **Homework**{: .label .label-blue } HW5 Released, Wednesday (DAGs and Unobserved Confounding)
+: **Homework**{: .label .label-blue } HW5 Released, Wednesday(Heterogeneous Effects)
+
+
+Feb 12
+: **Lecture 15**{: .label .label-green } Heterogeneous Treatment Effects II
+: ***Reading Materials***
+- [Textbook: Chapter 15](http://www.causalml-book.org)
+
+
+

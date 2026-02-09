@@ -1,32 +1,15 @@
 ---
-title: Unobserved Confounding
+title: Causal Identification with DAGs
 ---
 
-Feb 12
-: **Lecture 11**{: .label .label-green } Unobserved Confounding & Sensitivity Analysis
-: ***Reading Materials***
-- [Textbook: Chapters 12.1, 12.2](http://www.causalml-book.org)
-- Cinelli & Hazlett (2020), Making sense of sensitivity: extending omitted variable bias (optional)
-- Victor Chernozhukov, Carlos Cinelli, Whitney Newey, Amit Sharma, Vasilis Syrgkanis (2021), Long Story Short: Omitted Variable Bias in Causal Machine Learning (optional)
-
-
 Feb 17
-: **Lecture 12**{: .label .label-green } Instrumental Variables I:  Partially Linear IV models, LATE, Proxy Controls
+: **Lecture 10**{: .label .label-green } Structural Causal Models & DAGs
 : ***Reading Materials***
-- [Textbook: Chapters 12, 13](http://www.causalml-book.org)
-- Imbens & Angrist (1994), Identification and estimation of LATE (classic)
-
+- [Textbook: Chapters 7, 11](http://www.causalml-book.org)
+- Richardson & Robins (2013), Single World Intervention Graphs (optional)
 
 Feb 18
 : **Homework**{: .label .label-red } HW5 Due, Wednesday
 
 Feb 18
-: **Homework**{: .label .label-blue } HW6 Released, Wednesday (Instrumental Variables)
-
-Feb 19
-: **Lecture 13**{: .label .label-green } Instrumental Variables II: Debiased Machine Learning
-: ***Reading Materials***
-- [Textbook: Chapters 12, 13](http://www.causalml-book.org)
-- Tchetgen Tchetgen et al., Proximal causal learning (optional, advanced)
-
-
+: **Homework**{: .label .label-blue } HW6 Released, Wednesday (DAGs and Unobserved Confounding)
