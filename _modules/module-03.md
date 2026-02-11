@@ -7,6 +7,7 @@ Feb 10
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture10.pdf)
 : ***Reading Materials***
 - [Textbook: Chapter 14](http://www.causalml-book.org)
+- [EconML User Guide](https://www.pywhy.org/EconML/index.html)
 - Athey, Tibshirani, Wager (2019), Generalized random forests (optional)
 : ***Coding Materials***
 - [DR CATE Learner (DR-Learner) for multi-investment attribution](https://colab.research.google.com/github/py-why/EconML/blob/main/notebooks/CustomerScenarios/Case%20Study%20-%20Multi-investment%20Attribution%20at%20A%20Software%20Company.ipynb)
