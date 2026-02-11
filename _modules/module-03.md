@@ -5,6 +5,8 @@ title: Heterogeneous Treatment Effects
 Feb 10
 : **Lecture 14**{: .label .label-green } Heterogeneous Treatment Effects I
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture10.pdf)
+    : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture10_student_notes.pdf)
+    : [[NotebookLM]](https://notebooklm.google.com/notebook/dba4b1b8-1e87-4ad7-b58b-7efd17efccb5?authuser=1)
 : ***Reading Materials***
 - [Textbook: Chapter 14](http://www.causalml-book.org)
 - [EconML User Guide](https://www.pywhy.org/EconML/index.html)
