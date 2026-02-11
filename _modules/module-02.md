@@ -95,6 +95,7 @@ Feb 5
 : **Lecture 9**{: .label .label-green } Double Machine Learning in Practice
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture9.pdf)
     : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture9_student_notes.pdf)
+    : [[NotebookLM]](https://notebooklm.google.com/notebook/3e925fcd-447d-4646-b5f9-a318d3842c76?authuser=1)
 : ***Reading Materials***
 - [Textbook: Sections 1, 4, 9](http://www.causalml-book.org)
 - [Adventures in Demand Analysis Using AI](https://arxiv.org/abs/2501.00382)
