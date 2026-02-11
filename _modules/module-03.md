@@ -11,7 +11,7 @@ Feb 10
 - Athey, Tibshirani, Wager (2019), Generalized random forests (optional)
 : ***Coding Materials***
 - [DR CATE Learner (DR-Learner) for multi-investment attribution](https://colab.research.google.com/github/py-why/EconML/blob/main/notebooks/CustomerScenarios/Case%20Study%20-%20Multi-investment%20Attribution%20at%20A%20Software%20Company.ipynb)
-- [DML CATE Learner (R-Learner) for multi-investment attribution](https://colab.research.google.com/github/py-why/EconML/blob/main/notebooks/CustomerScenarios/Case%20Study%20-%20Customer%20Segmentation%20at%20An%20Online%20Media%20Company.ipynb)
+- [DML CATE Learner (R-Learner) for heterogeneous price elasticities](https://colab.research.google.com/github/py-why/EconML/blob/main/notebooks/CustomerScenarios/Case%20Study%20-%20Customer%20Segmentation%20at%20An%20Online%20Media%20Company.ipynb)
 
 
 
