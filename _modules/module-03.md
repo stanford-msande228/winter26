@@ -26,8 +26,11 @@ Feb 11
 
 Feb 12
 : **Lecture 15**{: .label .label-green } Heterogeneous Treatment Effects II
+    : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture11.pdf)
 : ***Reading Materials***
 - [Textbook: Chapter 15](http://www.causalml-book.org)
+: ***Coding Materials***
+- [CATE Validation with EconML]({https://colab.research.google.com/github/py-why/EconML/blob/main/notebooks/CATE%20validation.ipynb)
 
 
 
