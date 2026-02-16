@@ -27,6 +27,8 @@ Feb 11
 Feb 12
 : **Lecture 15**{: .label .label-green } Heterogeneous Treatment Effects II
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture11.pdf)
+    : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture11_student_notes.pdf)
+    : [[NotebookLM]](https://notebooklm.google.com/notebook/db06dae4-1f66-4844-808d-5496705b1188?authuser=1)
 : ***Reading Materials***
 - [Textbook: Chapter 15](http://www.causalml-book.org)
 : ***Coding Materials***
