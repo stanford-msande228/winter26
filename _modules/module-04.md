@@ -4,6 +4,7 @@ title: Causal Identification with DAGs
 
 Feb 17
 : **Lecture 10**{: .label .label-green } Structural Causal Models & DAGs
+    : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture12.pdf)
 : ***Reading Materials***
 - [Textbook: Chapters 7, 11](http://www.causalml-book.org)
 - Richardson & Robins (2013), Single World Intervention Graphs (optional)
