@@ -33,7 +33,7 @@ Feb 12
 - [Textbook: Chapter 15](http://www.causalml-book.org)
 : ***Coding Materials***
 - [Generic ML CATE Estimation, Ensembling, Validation](https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/T/CATE-estimation.ipynb)
-- [CATE Validation with EconML]({https://colab.research.google.com/github/py-why/EconML/blob/main/notebooks/CATE%20validation.ipynb)
+- [CATE Validation with EconML](https://colab.research.google.com/github/py-why/EconML/blob/main/notebooks/CATE%20validation.ipynb)
 
 
 
