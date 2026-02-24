@@ -9,12 +9,9 @@ Feb 24
 - Cinelli & Hazlett (2020), Making sense of sensitivity: extending omitted variable bias (optional)
 - Victor Chernozhukov, Carlos Cinelli, Whitney Newey, Amit Sharma, Vasilis Syrgkanis (2021), Long Story Short: Omitted Variable Bias in Causal Machine Learning (optional)
 
-
 Feb 25
 : **Homework**{: .label .label-red } HW6 Due, Wednesday
 
-Feb 25
-: **Homework**{: .label .label-blue } HW7 Released, Wednesday (Instrumental Variables)
 
 Feb 26
 : **Lecture 12**{: .label .label-green } Instrumental Variables:  Partially Linear IV models, LATE, Proxy Controls and Debiased ML
@@ -24,3 +21,5 @@ Feb 26
 - Tchetgen Tchetgen et al., Proximal causal learning (optional, advanced)
 
 
+Feb 26
+: **Homework**{: .label .label-blue } HW7 Released, Thursday (Instrumental Variables)
