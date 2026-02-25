@@ -9,6 +9,8 @@ Feb 24
 - [Textbook: Chapters 12.1, 12.2](http://www.causalml-book.org)
 - Cinelli & Hazlett (2020), Making sense of sensitivity: extending omitted variable bias (optional)
 - Victor Chernozhukov, Carlos Cinelli, Whitney Newey, Amit Sharma, Vasilis Syrgkanis (2021), Long Story Short: Omitted Variable Bias in Causal Machine Learning (optional)
+: ***Coding Materials***
+- [Sensitivity Analysis for the Darfur Example under Partial Linearity](https://colab.research.google.com/drive/1E9zdMJ6CTycylxgqoTpTA17xqN5Z64Af)
 
 Feb 25
 : **Homework**{: .label .label-red } HW6 Due, Wednesday
