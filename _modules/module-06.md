@@ -17,11 +17,11 @@ Mar 5
 - [Automatic Debiased Machine Learning for Dynamic Treatment Effects and General Nested Functionals, Sections 1-6](https://arxiv.org/pdf/2203.13887)
 - [Hernán, Robins (2025), Causal Inference: What If, Chapters 19-21 (optional)](https://miguelhernan.org/whatifbook)
 
-Mar 5
-: **Homework**{: .label .label-red } HW7 Due, Thursday
+Mar 6
+: **Homework**{: .label .label-red } HW7 Due, Friday
 
-Mar 5
-: **Homework**{: .label .label-blue } HW8 Released, Thursday (DiD + Dynamic Effects + Surrogates)
+Mar 6
+: **Homework**{: .label .label-blue } HW8 Released, Friday (DiD + Dynamic Effects + Surrogates)
 
 
 Mar 10

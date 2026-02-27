@@ -26,5 +26,5 @@ Feb 26
 - Tchetgen Tchetgen et al., Proximal causal learning (optional, advanced)
 
 
-Feb 26
-: **Homework**{: .label .label-blue } HW7 Released, Thursday (Instrumental Variables)
+Feb 27
+: **Homework**{: .label .label-blue } HW7 Released, Friday (Instrumental Variables)
