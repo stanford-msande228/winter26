@@ -6,6 +6,7 @@ Feb 24
 : **Lecture 11**{: .label .label-green } Unobserved Confounding & Sensitivity Analysis
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture14.pdf)
     : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture14_student_notes.pdf)
+    : [[NotebookLM]](https://notebooklm.google.com/notebook/7497e334-ca29-40c9-9961-89e7a80cc22a?authuser=1)
 : ***Reading Materials***
 - [Textbook: Chapters 12.1, 12.2](http://www.causalml-book.org)
 - Cinelli & Hazlett (2020), Making sense of sensitivity: extending omitted variable bias (optional)
