@@ -34,6 +34,7 @@ Feb 27
 
 Mar 3
 : **Lecture 16**{: .label .label-green } Proximal Causal Inference
+    : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture16.pdf)
 : ***Reading Materials***
 - [Textbook: Chapter 16](http://www.causalml-book.org)
 - [Textbook: Chapter 17](http://www.causalml-book.org)
