@@ -21,13 +21,24 @@ Feb 25
 
 
 Feb 26
-: **Lecture 12**{: .label .label-green } Instrumental Variables:  Partially Linear IV models, LATE, Proxy Controls and Debiased ML
+: **Lecture 12**{: .label .label-green } Instrumental Variables: LATE, Partially Linear IV models, Debiased ML
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture15.pdf)
 : ***Reading Materials***
 - [Textbook: Chapters 12, 13](http://www.causalml-book.org)
 - Imbens & Angrist (1994), Identification and estimation of LATE (classic)
-- Tchetgen Tchetgen et al., Proximal causal learning (optional, advanced)
 
 
 Feb 27
 : **Homework**{: .label .label-blue } HW7 Released, Friday (Instrumental Variables)
+
+
+Mar 3
+: **Lecture 16**{: .label .label-green } Further Methods for Unobserved Confounding
+Proximal Causal Inference, Difference-in-Differences, Regression Discontinuity
+: ***Reading Materials***
+- [Textbook: Chapter 16](http://www.causalml-book.org)
+- [Textbook: Chapter 17](http://www.causalml-book.org)
+- Tchetgen Tchetgen et al., Proximal causal learning (optional, advanced)
+- Callaway & Sant’Anna (2021) or Sun & Abraham (2021) (optional modern DiD)
+- Imbens & Lemieux (2008), Regression Discontinuity Designs (A guide to practice) (optional)
+- Calonico, Cattaneo & Titiunik (2014), Robust bias-corrected RDD inference (optional)

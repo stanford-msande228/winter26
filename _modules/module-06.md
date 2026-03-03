@@ -2,14 +2,6 @@
 title: Topics
 ---
 
-Mar 3
-: **Lecture 16**{: .label .label-green } Difference-in-Differences with ML
-: ***Reading Materials***
-- [Textbook: Chapter 16](http://www.causalml-book.org)
-- Callaway & Sant’Anna (2021) or Sun & Abraham (2021) (optional modern DiD)
-
-
-
 Mar 5
 : **Lecture 17**{: .label .label-green } Dynamic Treatment Effects with ML: Time-Varying Confounding
 : ***Reading Materials***
@@ -33,11 +25,7 @@ Mar 10
 
 
 Mar 12
-: **Lecture 19**{: .label .label-green } Regression Discontinuity Designs (RDD) with ML
-: ***Reading Materials***
-- [Textbook: Chapter 17](http://www.causalml-book.org)
-- Imbens & Lemieux (2008), Regression Discontinuity Designs (A guide to practice) (optional)
-- Calonico, Cattaneo & Titiunik (2014), Robust bias-corrected RDD inference (optional)
+: **Lecture 19**{: .label .label-green } Discussion and Recap
 
 
 Mar 18
