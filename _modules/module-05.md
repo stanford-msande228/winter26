@@ -33,12 +33,14 @@ Feb 27
 
 
 Mar 3
-: **Lecture 16**{: .label .label-green } Further Methods for Unobserved Confounding
-Proximal Causal Inference, Difference-in-Differences, Regression Discontinuity
+: **Lecture 16**{: .label .label-green } Proximal Causal Inference
 : ***Reading Materials***
 - [Textbook: Chapter 16](http://www.causalml-book.org)
 - [Textbook: Chapter 17](http://www.causalml-book.org)
 - Tchetgen Tchetgen et al., Proximal causal learning (optional, advanced)
+
+Mar 5
+: **Lecture 17**{: .label .label-green } Difference-in-Differences and Regression Discontinuity
 - Callaway & Sant’Anna (2021) or Sun & Abraham (2021) (optional modern DiD)
 - Imbens & Lemieux (2008), Regression Discontinuity Designs (A guide to practice) (optional)
 - Calonico, Cattaneo & Titiunik (2014), Robust bias-corrected RDD inference (optional)
