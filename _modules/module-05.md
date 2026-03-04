@@ -23,6 +23,8 @@ Feb 25
 Feb 26
 : **Lecture 12**{: .label .label-green } Instrumental Variables: LATE, Partially Linear IV models, Debiased ML
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture15.pdf)
+    : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture15_student_notes.pdf)
+    : [[NotebookLM]](https://notebooklm.google.com/notebook/52feb4da-b0db-435c-b51b-dd39c8ff99ee?authuser=1)
 : ***Reading Materials***
 - [Textbook: Chapters 12, 13](http://www.causalml-book.org)
 - Imbens & Angrist (1994), Identification and estimation of LATE (classic)
