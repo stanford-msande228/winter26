@@ -44,6 +44,7 @@ Mar 3
 
 Mar 5
 : **Lecture 17**{: .label .label-green } Difference-in-Differences and Regression Discontinuity
+    : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture17.pdf)
 - Callaway & Sant’Anna (2021) or Sun & Abraham (2021) (optional modern DiD)
 - Imbens & Lemieux (2008), Regression Discontinuity Designs (A guide to practice) (optional)
 - Calonico, Cattaneo & Titiunik (2014), Robust bias-corrected RDD inference (optional)
