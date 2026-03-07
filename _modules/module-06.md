@@ -3,7 +3,7 @@ title: Dynamic and Long-Term Effects
 ---
 
 Mar 9
-: **Homework**{: .label .label-blue } HW8 Released, Friday (DiD + Dynamic Effects + Surrogates)
+: **Homework**{: .label .label-blue } HW8 Released, Monday
 
 Mar 10
 : **Lecture 17**{: .label .label-green } Dynamic Treatment Effects with ML, Surrogates for Long-Term Effects
