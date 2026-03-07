@@ -5,7 +5,7 @@ title: Dynamic and Long-Term Effects
 Mar 6
 : **Homework**{: .label .label-red } HW7 Due, Friday
 
-Mar 6
+Mar 9
 : **Homework**{: .label .label-blue } HW8 Released, Friday (DiD + Dynamic Effects + Surrogates)
 
 Mar 10

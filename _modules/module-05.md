@@ -49,3 +49,7 @@ Mar 5
 - Callaway & Sant’Anna (2021) or Sun & Abraham (2021) (optional modern DiD)
 - Imbens & Lemieux (2008), Regression Discontinuity Designs (A guide to practice) (optional)
 - Calonico, Cattaneo & Titiunik (2014), Robust bias-corrected RDD inference (optional)
+
+
+Mar 6
+: **Homework**{: .label .label-red } HW7 Due, Friday
