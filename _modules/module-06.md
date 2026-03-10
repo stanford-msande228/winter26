@@ -7,6 +7,7 @@ Mar 9
 
 Mar 10
 : **Lecture 17**{: .label .label-green } Dynamic Treatment Effects with ML, Surrogates for Long-Term Effects
+    : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture18.pdf)
 : ***Reading Materials***
 - [Double/Debiased Machine Learning for Dynamic Treatment Effects via g-Estimation](https://arxiv.org/abs/2002.07285)
 - [Automatic Debiased Machine Learning for Dynamic Treatment Effects and General Nested Functionals, Sections 1-6](https://arxiv.org/pdf/2203.13887)
