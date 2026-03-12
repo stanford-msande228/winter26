@@ -17,6 +17,7 @@ Mar 10
 Mar 12
 : **Lecture 19**{: .label .label-green } Surrogates and Long Term Effects + Discussion and Recap
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture19.pdf)
+    : [[Outro Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_outro.pdf)
 : ***Reading Materials***
 - [The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely](https://www.nber.org/system/files/working_papers/w26463/w26463.pdf)
 - [Estimating the Long-Term Effects of Novel Treatments (optional)](https://arxiv.org/abs/2103.08390)
