@@ -12,12 +12,14 @@ Mar 10
 - [Double/Debiased Machine Learning for Dynamic Treatment Effects via g-Estimation](https://arxiv.org/abs/2002.07285)
 - [Automatic Debiased Machine Learning for Dynamic Treatment Effects and General Nested Functionals, Sections 1-6](https://arxiv.org/pdf/2203.13887)
 - [Hernán, Robins (2025), Causal Inference: What If, Chapters 19-21 (optional)](https://miguelhernan.org/whatifbook)
-- [The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely](https://www.nber.org/system/files/working_papers/w26463/w26463.pdf)
-- [Estimating the Long-Term Effects of Novel Treatments (optional)](https://arxiv.org/abs/2103.08390)
 
 
 Mar 12
-: **Lecture 19**{: .label .label-green } Discussion and Recap
+: **Lecture 19**{: .label .label-green } Surrogates and Long Term Effects + Discussion and Recap
+    : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture19.pdf)
+: ***Reading Materials***
+- [The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely](https://www.nber.org/system/files/working_papers/w26463/w26463.pdf)
+- [Estimating the Long-Term Effects of Novel Treatments (optional)](https://arxiv.org/abs/2103.08390)
 
 
 Mar 18
