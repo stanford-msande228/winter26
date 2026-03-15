@@ -47,6 +47,8 @@ Mar 3
 Mar 5
 : **Lecture 17**{: .label .label-green } Difference-in-Differences and Regression Discontinuity
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture17.pdf)
+    : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture17_student_notes.pdf)
+    : [[NotebookLM]](https://notebooklm.google.com/notebook/d9ea7653-7501-45cc-b706-07cc8bb271e8?authuser=1)
 : ***Reading Materials***
 - Callaway & Sant’Anna (2021) or Sun & Abraham (2021) (optional modern DiD)
 - Imbens & Lemieux (2008), Regression Discontinuity Designs (A guide to practice) (optional)
