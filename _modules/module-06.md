@@ -6,8 +6,10 @@ Mar 9
 : **Homework**{: .label .label-blue } HW8 Released, Monday
 
 Mar 10
-: **Lecture 17**{: .label .label-green } Dynamic Treatment Effects with ML, Surrogates for Long-Term Effects
+: **Lecture 18**{: .label .label-green } Dynamic Treatment Effects with ML, Surrogates for Long-Term Effects
     : [[Slides]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/MSANDE228_Lecture18.pdf)
+    : [[Notes]](https://github.com/stanford-msande228/winter26/raw/main/assets/presentations/lecture_notes/lecture18_student_notes.pdf)
+    : [[NotebookLM]](https://notebooklm.google.com/notebook/fe45811d-e410-4b55-9880-7df3d53df051?authuser=1)
 : ***Reading Materials***
 - [Double/Debiased Machine Learning for Dynamic Treatment Effects via g-Estimation](https://arxiv.org/abs/2002.07285)
 - [Automatic Debiased Machine Learning for Dynamic Treatment Effects and General Nested Functionals, Sections 1-6](https://arxiv.org/pdf/2203.13887)
